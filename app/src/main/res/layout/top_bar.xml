@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:layout_gravity="center_vertical">
+
+    <ProgressBar
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar_Time"
+        android:background="@drawable/progressbar"
+        />
+
+    <LinearLayout
+        android:layout_marginTop="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_gravity="center_vertical">
+        <TextView
+            android:id="@+id/tv_score"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Score"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:background="@drawable/scorearea"/>
+        <TextView
+            android:id="@+id/tv_best"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:textSize="18dp"
+            android:text="Best"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:background="@drawable/scorearea2"/>
+        <Button
+            android:gravity="center"
+            android:id="@+id/button_Pause"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="pause"
+            android:background="@drawable/button"
+            android:textStyle="bold"/>
+    </LinearLayout>
+</LinearLayout>

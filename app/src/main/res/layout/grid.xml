@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="7"
+    android:layout_row="9">
+
+    <ImageView
+        android:id="@+id/iv_00"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_01"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_02"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_03"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_04"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_05"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_06"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_10"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_11"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_12"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_13"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_14"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_15"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_16"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_20"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_21"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_22"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_23"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_24"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_25"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_26"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_30"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_31"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_32"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_33"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_34"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_35"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_36"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_40"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_41"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_42"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_43"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_44"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_45"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_46"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_50"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_51"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_52"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_53"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_54"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_55"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_56"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_60"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_61"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_62"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_63"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_64"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_65"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_66"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_70"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_71"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_72"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_73"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_74"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_75"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_76"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_80"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_81"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_82"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_83"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_84"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_85"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+
+    <ImageView
+        android:id="@+id/iv_86"
+        android:layout_width="68px"
+        android:layout_height="68px"/>
+</GridLayout>

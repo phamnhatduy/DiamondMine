@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DiamondMine</string>
+    <string name="score">0</string>
+</resources>
